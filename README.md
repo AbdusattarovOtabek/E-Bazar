@@ -1,5 +1,4 @@
-Django CRM
-<br> Example command:
+Example command:
 
  This should work:<code>py -m pip install -r requirements.txt</code><br>
 Running the website:
