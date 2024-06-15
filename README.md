@@ -1,7 +1,7 @@
 Example command:
 
  This should work:<code>py -m pip install -r requirements.txt</code><br>
-Running the website:
+Running the website:<br>
 Apply migrations:<code>python3 manage.py migrate </code><br>
 Create superuser:<code> py manage.py createsuperuser</code><br>
 
