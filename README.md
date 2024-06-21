@@ -2,7 +2,7 @@ Example command:
 
  This should work:<code>py -m pip install</code><br> and install necessary files:<code> -r requirements.txt</code><br>
 Running the website:<br>
-Apply migrations:<code>python3 manage.py migrate </code><br>
+Apply migrations:<code>py manage.py migrate </code><br>
 Create superuser:<code> py manage.py createsuperuser</code><br>
 
 Run the server: <code>py manage.py runserver</code><br>
