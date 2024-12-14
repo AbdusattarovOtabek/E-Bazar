@@ -1,6 +1,6 @@
 Example command:
 
- This should work:<code>py -m pip install</code><br> and install necessary files:<code> -r requirements.txt</code><br>
+<code>py -m pip install -r requirements.txt</code><br>
 Running the website:<br>
 Apply migrations:<code>py manage.py migrate </code><br>
 Create superuser:<code> py manage.py createsuperuser</code><br>
